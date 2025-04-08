@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(81, 3, 122); /*Cor de fundo*/
+    margin: 0px;
+    padding: 20px;
+    color: #ffffff; /*Cor do texto*/
+}
+
+h1{
+    color: brown;
+
+}
+
+h4{
+    color: chartreuse;
+
+}
+
+.classe{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+
+}
